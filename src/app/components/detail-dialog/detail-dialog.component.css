@@ -1,0 +1,27 @@
+:host {
+  display: block;
+  padding: 24px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+p {
+  margin-bottom: 8px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.dialog-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.dialog-content p {
+  display: flex;
+  align-items: center;
+}
